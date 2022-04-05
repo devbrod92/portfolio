@@ -1,9 +1,10 @@
 import React from "react";
 import "./Header.css";
 import Cta from "./Cta";
-import Me from "../../assets/me.png";
 
 const Header = () => {
+  const Me = "../src/assets/me.png";
+
   return (
     <header>
       <div className="container header__container">
