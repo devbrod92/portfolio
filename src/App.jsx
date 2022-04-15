@@ -1,5 +1,5 @@
 import React from "react";
-import Expirence from "./components/Expirence/Expirence";
+import Experience from "./components/Experience/Experience";
 import Header from "./components/Header/Header";
 import Nav from "./components/Nav/Nav";
 import About from "./components/About/About";
@@ -15,7 +15,7 @@ const App = () => {
       <Header />
       <Nav />
       <About />
-      <Expirence />
+      <Experience />
       <Services />
       <Portfolio />
       <Testimonials />
